@@ -7,8 +7,8 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Js" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="HTML" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
 </div>
  
  <br>
